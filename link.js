@@ -1,4 +1,4 @@
 
 const modelName = "Hot Girl"
 
-const link = "http://hello.fanclub.rocks"
+const link = "https://visitme.page.link/P6tj"
