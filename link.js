@@ -1,4 +1,4 @@
 
 const modelName = "Hot Girl"
 
-const link = "https://visitme.page.link/P6tj"
+const link = "https://cutt.ly/7wdd8N7c"
